@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/ef9dbe961602a771626875527f213863/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/ef9dbe961602a771626875527f213863/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/ef9dbe961602a771626875527f213863/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/ef9dbe961602a771626875527f213863/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/ef9dbe961602a771626875527f213863/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/ef9dbe961602a771626875527f213863/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/anim/abc_fade_in.xml"
+    }
+]

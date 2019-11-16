@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/tusharsarkar/Projects/Avibra/Codes/AvibraAppCode/AvibraFreshCode/AvibraUI/node_modules/react-native-svg/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/tusharsarkar/.gradle/caches/transforms-2/files-2.1/570f75ec3b356f5a2fcf370b430e8859/res/color-v23/abc_tint_switch_track.xml"
+    }
+]
